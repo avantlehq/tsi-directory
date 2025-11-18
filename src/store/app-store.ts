@@ -59,6 +59,7 @@ export const useAppStore = create<AppState>()(
     }),
     {
       name: 'tsi-app-storage',
+      skipHydration: true,
       partialize: (state) => ({
         sidebarCollapsed: state.sidebarCollapsed,
         contextPanelCollapsed: state.contextPanelCollapsed,
