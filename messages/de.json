@@ -1,0 +1,80 @@
+{
+  "common": {
+    "loading": "Wird geladen...",
+    "save": "Speichern",
+    "cancel": "Abbrechen",
+    "delete": "Löschen",
+    "edit": "Bearbeiten",
+    "view": "Anzeigen",
+    "download": "Herunterladen",
+    "upload": "Hochladen",
+    "search": "Suchen",
+    "filter": "Filter",
+    "export": "Exportieren",
+    "import": "Importieren"
+  },
+  "navigation": {
+    "convert": "Konvertieren",
+    "validate": "Validieren",
+    "registry": "Register",
+    "author": "Autor",
+    "search": "Suchen",
+    "recentJobs": "Aktuelle Jobs",
+    "savedItems": "Gespeicherte Elemente"
+  },
+  "header": {
+    "title": "TSI Verzeichnis",
+    "subtitle": "Europäische Bahn-Interoperabilitätsplattform",
+    "help": "Hilfe",
+    "documentation": "Dokumentation",
+    "language": "Sprache",
+    "theme": "Design",
+    "lightMode": "Heller Modus",
+    "darkMode": "Dunkler Modus"
+  },
+  "modules": {
+    "conversion": {
+      "title": "TSI Konvertierungsdienst",
+      "description": "Transportdaten zwischen JSON und standardisierten Formaten konvertieren",
+      "uploadFile": "Datei hochladen",
+      "selectFormat": "Ausgabeformat auswählen",
+      "preview": "Vorschau",
+      "convert": "Konvertieren",
+      "download": "Ergebnisse herunterladen"
+    },
+    "validation": {
+      "title": "TSI Validierungsdienst",
+      "description": "Transportdaten gegen XSD-Schemas und Geschäftsregeln validieren",
+      "inputData": "Eingabedaten",
+      "validationRules": "Validierungsregeln",
+      "results": "Validierungsergebnisse"
+    },
+    "registry": {
+      "title": "TSI Registerdienst",
+      "description": "TSI-Nachrichten, Codes und Metadaten durchsuchen",
+      "browse": "Register durchsuchen",
+      "messages": "TSI Nachrichten",
+      "codes": "Code-Listen",
+      "metadata": "Metadaten"
+    },
+    "authoring": {
+      "title": "TSI Authoring & Test",
+      "description": "TSI-Nachrichten mit Sandbox-Umgebung erstellen und testen",
+      "wizard": "Authoring-Assistent",
+      "sandbox": "Test-Sandbox",
+      "simulate": "Austausch simulieren"
+    },
+    "search": {
+      "title": "TSI Suche & Glossar",
+      "description": "TSI-Standards, Definitionen und Dokumentation durchsuchen",
+      "searchPlaceholder": "TSI-Standards, Codes, Definitionen suchen...",
+      "filters": "Filter",
+      "standards": "Standards",
+      "definitions": "Definitionen"
+    }
+  },
+  "footer": {
+    "copyright": "© 2024 TSI Verzeichnis. Alle Rechte vorbehalten.",
+    "poweredBy": "Betrieben von Avantle Technology"
+  }
+}

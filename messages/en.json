@@ -1,0 +1,80 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "view": "View",
+    "download": "Download",
+    "upload": "Upload",
+    "search": "Search",
+    "filter": "Filter",
+    "export": "Export",
+    "import": "Import"
+  },
+  "navigation": {
+    "convert": "Convert",
+    "validate": "Validate", 
+    "registry": "Registry",
+    "author": "Author",
+    "search": "Search",
+    "recentJobs": "Recent Jobs",
+    "savedItems": "Saved Items"
+  },
+  "header": {
+    "title": "TSI Directory",
+    "subtitle": "European Railway Interoperability Platform",
+    "help": "Help",
+    "documentation": "Documentation",
+    "language": "Language",
+    "theme": "Theme",
+    "lightMode": "Light Mode",
+    "darkMode": "Dark Mode"
+  },
+  "modules": {
+    "conversion": {
+      "title": "TSI Conversion Service",
+      "description": "Convert transport data between JSON and standardized formats",
+      "uploadFile": "Upload File",
+      "selectFormat": "Select Output Format",
+      "preview": "Preview",
+      "convert": "Convert",
+      "download": "Download Results"
+    },
+    "validation": {
+      "title": "TSI Validation Service", 
+      "description": "Validate transport data against XSD schemas and business rules",
+      "inputData": "Input Data",
+      "validationRules": "Validation Rules",
+      "results": "Validation Results"
+    },
+    "registry": {
+      "title": "TSI Registry Service",
+      "description": "Browse TSI messages, codes, and metadata",
+      "browse": "Browse Registry",
+      "messages": "TSI Messages",
+      "codes": "Code Lists",
+      "metadata": "Metadata"
+    },
+    "authoring": {
+      "title": "TSI Authoring & Test",
+      "description": "Create and test TSI messages with sandbox environment", 
+      "wizard": "Authoring Wizard",
+      "sandbox": "Test Sandbox",
+      "simulate": "Simulate Exchange"
+    },
+    "search": {
+      "title": "TSI Search & Glossary",
+      "description": "Search TSI standards, definitions, and documentation",
+      "searchPlaceholder": "Search TSI standards, codes, definitions...",
+      "filters": "Filters",
+      "standards": "Standards",
+      "definitions": "Definitions"
+    }
+  },
+  "footer": {
+    "copyright": "© 2024 TSI Directory. All rights reserved.",
+    "poweredBy": "Powered by Avantle Technology"
+  }
+}

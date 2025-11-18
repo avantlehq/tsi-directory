@@ -1,0 +1,80 @@
+{
+  "common": {
+    "loading": "Načítava sa...",
+    "save": "Uložiť",
+    "cancel": "Zrušiť",
+    "delete": "Odstrániť",
+    "edit": "Upraviť",
+    "view": "Zobraziť",
+    "download": "Stiahnuť",
+    "upload": "Nahrať",
+    "search": "Hľadať",
+    "filter": "Filter",
+    "export": "Exportovať",
+    "import": "Importovať"
+  },
+  "navigation": {
+    "convert": "Konvertovať",
+    "validate": "Validovať",
+    "registry": "Register",
+    "author": "Autor",
+    "search": "Hľadať",
+    "recentJobs": "Nedávne úlohy",
+    "savedItems": "Uložené položky"
+  },
+  "header": {
+    "title": "TSI Adresár",
+    "subtitle": "Európska platforma pre železničnú interoperabilitu",
+    "help": "Pomoc",
+    "documentation": "Dokumentácia",
+    "language": "Jazyk",
+    "theme": "Téma",
+    "lightMode": "Svetlý režim",
+    "darkMode": "Tmavý režim"
+  },
+  "modules": {
+    "conversion": {
+      "title": "TSI Konverzná služba",
+      "description": "Konvertovanie dopravných dát medzi JSON a štandardizovanými formátmi",
+      "uploadFile": "Nahrať súbor",
+      "selectFormat": "Vybrať výstupný formát",
+      "preview": "Náhľad",
+      "convert": "Konvertovať",
+      "download": "Stiahnuť výsledky"
+    },
+    "validation": {
+      "title": "TSI Validačná služba",
+      "description": "Validovanie dopravných dát podľa XSD schém a obchodných pravidiel",
+      "inputData": "Vstupné dáta",
+      "validationRules": "Validačné pravidlá",
+      "results": "Výsledky validácie"
+    },
+    "registry": {
+      "title": "TSI Registerová služba",
+      "description": "Prehliadanie TSI správ, kódov a metadát",
+      "browse": "Prehliadať register",
+      "messages": "TSI Správy",
+      "codes": "Zoznamy kódov",
+      "metadata": "Metadáta"
+    },
+    "authoring": {
+      "title": "TSI Tvorba & Test",
+      "description": "Vytváranie a testovanie TSI správ s testovacím prostredím",
+      "wizard": "Sprievodca tvorbou",
+      "sandbox": "Testovací sandbox",
+      "simulate": "Simulovať výmenu"
+    },
+    "search": {
+      "title": "TSI Vyhľadávanie & Slovník",
+      "description": "Vyhľadávanie TSI štandardov, definícií a dokumentácie",
+      "searchPlaceholder": "Hľadať TSI štandardy, kódy, definície...",
+      "filters": "Filtre",
+      "standards": "Štandardy",
+      "definitions": "Definície"
+    }
+  },
+  "footer": {
+    "copyright": "© 2024 TSI Adresár. Všetky práva vyhradené.",
+    "poweredBy": "Poháňané Avantle Technology"
+  }
+}
